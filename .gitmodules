@@ -1,0 +1,3 @@
+[submodule "lab5-budget-tracker-express-apis-starter-code"]
+	path = lab5-budget-tracker-express-apis-starter-code
+	url = https://github.com/ucsd-fa24-cse110/lab5-budget-tracker-express-apis-starter-code.git
